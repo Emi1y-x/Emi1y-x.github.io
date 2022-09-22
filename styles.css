@@ -1,4 +1,4 @@
-/* html,
+html,
 body {
   background: #000;
   color: #fff;
@@ -8,20 +8,18 @@ body {
   overflow: hidden;
   position: relative;
 }
-.marquee {
+
+.test {
   display: block;
   left: 0;
   position: absolute;
   top: 0;
 }
+
 svg {
   display: block;
 }
+
 .logo {
   fill: #fff;
 }
- */
-
- body {
- background-color: aquamarine;
- }
